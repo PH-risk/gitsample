@@ -1,0 +1,13 @@
+credentials = {
+  "apikey": "aSfzQLA7k-rwyMmIxCnolO0iedrtOrhoZceq_WdyMMFQ",
+  "cos_hmac_keys": {
+    "access_key_id": "cdcaf52e73f74f838e9524f30a84cb0c",
+    "secret_access_key": "4f131a129ae77f4381af25918575ac6f433e2c6fa6264710"
+  },
+  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
+  "iam_apikey_description": "Auto-generated for key cdcaf52e-73f7-4f83-8e95-24f30a84cb0c",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/269f45e9d3f746f6a2cdb8817804541c::serviceid:ServiceId-9d6b9a85-0593-4df8-b432-e3f2958eed14",
+  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/269f45e9d3f746f6a2cdb8817804541c:74e9167c-b4ea-4137-8149-098dcc648307::"
+}
